@@ -5,7 +5,7 @@ delimiter and ``N-`` disc prefixes become ``DiscN/`` subdirectories."""
 
 from .application import Application
 
-__version__ = '0.1.0'
+__version__ = '0.1.2'
 
 __all__ = [
     'Application',
